@@ -10,7 +10,7 @@
         "build": "tsc"
     },
     "dependencies": {
-        "sandstorm-trade": "0.0.1"
+        "sandstorm-trade": "file:../../Winfury/sand-storm"
     },
     "devDependencies": {
         "@types/node": "^14.0.27",
