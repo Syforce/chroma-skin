@@ -1,6 +1,6 @@
 {
     "name": "chroma-skin",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Chroma Skin",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
         "build": "tsc"
     },
     "dependencies": {
-        "sandstorm-trade": "file:../../Winfury/sand-storm"
+        "sandstorm-trade": "0.1.0"
     },
     "devDependencies": {
         "@types/node": "^14.0.27",
