@@ -17,7 +17,7 @@
     "url": "git+https://github.com/Syforce/chroma-skin.git"
   },
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@syforce:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "chroma",
