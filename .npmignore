@@ -1,0 +1,18 @@
+# Exclude source files
+src/
+tsconfig.json
+tslint.json
+
+# Exclude Git-related files and directories
+.git/
+.gitignore
+
+# Exclude package manager lock files
+yarn.lock
+npm-lock.json
+
+# Exclude development files
+*.ts
+*.spec.*
+coverage/
+node_modules/

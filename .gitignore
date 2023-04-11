@@ -1,0 +1,8 @@
+# IDE Related
+.idea
+
+# Node Related
+node_modules
+
+# Project Specific
+dist

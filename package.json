@@ -1,0 +1,32 @@
+{
+  "name": "@thunder/chroma-skin",
+  "version": "0.8.0",
+  "description": "Chroma Skin",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.10",
+    "ts-node": "10.9.1",
+    "typescript": "5.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syforce/chroma-skin.git"
+  },
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "chroma",
+    "skin"
+  ],
+  "author": "Syforce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syforce/chroma-skin/issues"
+  },
+  "homepage": "https://github.com/Syforce/chroma-skin#readme"
+}
